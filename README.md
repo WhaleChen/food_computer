@@ -1,2 +1,8 @@
-# food_computer
-植物计算机,基于MIT: http://openag.media.mit.edu/
+## 植物计算机
+- 基于MIT: http://openag.media.mit.edu/
+
+## 目的
+- 植物计算机是建构精准农业的数据基础，这里希望第一时间将植物计算机的进展公布
+- 第一时间建立相应的中文资料和建立机器所必须材料的中国购买途径翻译
+
+
